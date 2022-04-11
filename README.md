@@ -1,2 +1,1 @@
-# FCC-03-Personal-Library
-freeCodeCamp-Quality-Assurance-Projects-03 Personal Library
+# [Personal Library](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library)
